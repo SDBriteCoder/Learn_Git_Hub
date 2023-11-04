@@ -4,5 +4,5 @@ function callJS()
 {
     count++;
     console.log(count);
-    console.log('JS function Called...');
+    console.log('JS function Called.');
 }
